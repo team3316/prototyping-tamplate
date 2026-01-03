@@ -6,10 +6,8 @@ import frc.robot.util.PIDFGains;
 
 import edu.wpi.first.math.geometry.Translation2d;
 import edu.wpi.first.math.kinematics.SwerveDriveKinematics;
-import edu.wpi.first.math.system.plant.DCMotor;
 import edu.wpi.first.math.util.Units;
 
-import static edu.wpi.first.units.Units.*;
 
 public class DriveConstants {
     public static class SwerveModuleConfig {
